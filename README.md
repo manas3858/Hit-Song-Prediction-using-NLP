@@ -15,7 +15,7 @@ This project follows the following approach:
 
 ### Sample Result
 Recipe for a hit breakfree song:
-  > A healthy portion of loudness
-  > Generous serving of energy
-  > A pinch of sentiment to taste
-  > Avoid  acousticness and instrumentalness, for the dish to come out in the best possible way!
+  A healthy portion of loudness
+  Generous serving of energy
+  A pinch of sentiment to taste
+  Avoid  acousticness and instrumentalness, for the dish to come out in the best possible way!
