@@ -1,6 +1,6 @@
 # Hit-Song-Prediction-using-NLP
 
-![](https://www.adorama.com/alc/wp-content/uploads/2017/08/shutterstock_415922566-1024x657.jpg)
+![](https://github.com/manas3858/Hit-Song-Prediction-using-NLP/blob/master/Breakfree%20Song%20Recipe.JPG)
 
 The project aims at developing a model using that can predict whether a song is going to be hit or not based on song lyrics and metadata.
 
