@@ -1,6 +1,6 @@
 # Hit-Song-Prediction-using-NLP
 
-![](https://www.sweetwater.com/insync/media/2019/05/best-dj-hero-650x340.jpg)
+![](https://www.adorama.com/alc/wp-content/uploads/2017/08/shutterstock_415922566-1024x657.jpg)
 
 The project aims at developing a model using that can predict whether a song is going to be hit or not based on song lyrics and metadata.
 
